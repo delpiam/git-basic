@@ -1,2 +1,7 @@
 This is a new file.
 Updated newfile.txt using IntelliJ
+Updated using GitHub
+
+add is used to stage the changes which will be committed.
+commit is used to apply changes on local branch. This also a preparatory stage for pushing and applying changes to remote branch.
+push is used to apply changes on the remote branch.
